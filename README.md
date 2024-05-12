@@ -4,7 +4,7 @@ Welcome to our electronic website! This website is designed to showcase a variet
 
 ## Live Demo
 
-Here is the live domo of project[https://sachinrajak03.github.io/electronic-e-commerce-website/]
+Here is the live domo of project [https://sachinrajak03.github.io/electronic-e-commerce-website/]
 
 
 
